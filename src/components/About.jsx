@@ -48,7 +48,7 @@ function About() {
         <div className="flex flex-col items-center justify-center p-4 bg-slate-800 w-full h-full">
             <div className="flex justify-center p-5">
                 <img
-                    src="/assets/file.png"
+                    src="/assets/abhi.png"
                     alt="Nature"
                     className="w-48 md:w-96 rounded-full animate-slideUpDown"
                 />
